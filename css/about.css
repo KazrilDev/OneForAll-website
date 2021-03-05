@@ -74,7 +74,7 @@ button:focus { outline: none; }
 .heading {
     padding: 160px 50px !important;
     color: #fff !important;
-    background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
+    background-image: url("../assets/wavy-purple-by-kazril.svg") !important;
     background-position: bottom !important;
     background-size: 300% !important;
     background-repeat: no-repeat !important;
@@ -97,7 +97,7 @@ button:focus { outline: none; }
     text-align: center !important;
     background: #0F8F00 !important;
     padding: 200px 50px !important;
-    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
+    background-image: url("../assets/wavy-dark-by-kazril.svg") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
@@ -167,7 +167,7 @@ button:focus { outline: none; }
 
 
 .page_end {
-    background-image: url("../assets/wavy-light-by-nouridio.svg") !important;
+    background-image: url("../assets/wavy-light-by-kazril.svg") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
@@ -204,7 +204,7 @@ color: rgba(255, 255, 255, 0.46) !important
     padding: 30px 30px !important
 }
 
-.footer .nouridio {
+.footer .kazril {
     font-family: 'Montserrat' !important;
     font-style: normal !important;
     font-weight: 600 !important;
@@ -214,7 +214,7 @@ color: rgba(255, 255, 255, 0.46) !important
     font-variant: small-caps !important;
 }
 
-.footer .nouridio a {
+.footer .kazril a {
     color: #0F8F00 !important;
     text-decoration: none !important;
 }
